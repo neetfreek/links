@@ -441,14 +441,14 @@ sections, programming-related and not programming-related.
 - [This reply will reproduce](https://news.ycombinator.com/item?id=25367011), Jugurtha Hadjar
     - Various pointers and links on general productivity, software, and selling software
 
-## Colour Theory
+### Colour Theory
 
 - [Modern Colour Theory for Traditional and Digital Painting Media](http://www.huevaluechroma.com/), Dr David Briggs on The Dimensions of Colour
 - [Bright colors versus duller colors](https://gamedev.stackexchange.com/questions/55992/bright-colors-versus-duller-colors), API Beast on Game Development Stack Exchange
 - [How I chose the palette for our game with tips for first timers](https://www.reddit.com/r/gamedev/comments/58jq6r/how_i_chose_the_palette_for_our_game_with_tips/), u/liranjulia on r/gamedev
 - [Dota 2 Workshop - Character Art Guide](https://support.steampowered.com/kb/9334-YDXV-8590/dota-2-workshop-character-art-guide#saturation), Valve Corporation on Steam Support
 
-## DRM, IP
+### DRM, IP
 
 - [Ethical Tech Giving Guide](https://fsf.org/givingguide/), Free Software Foundation, Inc.
 - [Guide to DRM-Free Living](https://www.defectivebydesign.org/guide), Free Software Foundation, Inc.
@@ -459,13 +459,13 @@ sections, programming-related and not programming-related.
   - Response
     article: [Why we will win the war for general-purpose computing](https://cheapskatesguide.org/articles/war-on-gp-computing-farnell.html), Andy Farnell
 
-## Fonts
+### Fonts
 
 - [dafont](https://www.dafont.com/), DaFont.com
 - [Font Forge](https://fontforge.github.io), George Williams
 - [How to Make a Custom Font](https://forum.unity.com/threads/how-to-make-a-custom-font.444411/), StabbyJoe on Unity Forums
 
-## Home, Living
+### Home, Living
 
 - [Building personal search infrastructure for your knowledge and code](https://beepb00p.xyz/pkm-search.html), karlicos
 - [Granny Knot Info](https://www.fieggen.com/shoelace/grannyknot.htm), Ian Fieggen
@@ -486,7 +486,7 @@ sections, programming-related and not programming-related.
 - [Programmer's introduction to linear equations](http://wordsandbuttons.online/programmers_introduction_to_linear_equations.html), Words and Buttons Online
   - Introduction to linear equations with interactive problem questions. Part of a larger collection of resources
 
-## Media
+### Media
 
 ### Films, Shows, Talks
 
@@ -502,14 +502,14 @@ sections, programming-related and not programming-related.
 - [Nightride FM](https://nightride.fm/stations), nightride.fm
 - [Synthwave Radio](https://synthwave.hu/), Synthwave Radio
 
-## Social Media
+### Social Media
 
 - [A List of Hacker News's Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented), Max Woolf
 - [Code Project: For Those Who Code](https://www.codeproject.com/), CodeProject
 - [Hacker News](https://news.ycombinator.com/), Y Combinator
 - [Stack Overflow](https://stackoverflow.com/), Stack Overflow 
 
-## Society
+### Society
 
 - [Arcology: The City In The Image Of Man](https://www.organism.earth/library/document/arcology), Paolo Soleri
 - [Attention and the Moral Life](https://thefrailestthing.com/2016/09/13/attention-and-the-moral-life/), L.M. Sacasas
