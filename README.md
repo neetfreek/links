@@ -537,13 +537,13 @@ sections, programming-related and not programming-related.
   - On how the shift from information scarcity to abundance transforms commerce, education, and politics
 - [#Cancel We The Web?](https://www.wetheweb.org/post/cancel-we-the-web-rms), Hannah Wolfman-Jones, Nadine Strossen
 
-## SFX Websites
+### SFX Websites
 
 - [Bfxr](https://www.bfxr.net/), increpare
 - [Freesound](https://freesound.org/), Universitat Pompeu Fabra
 - [PMSFX](https://www.pmsfx.com/), Phil Michalski
 
-## Textures
+### Textures
 
 - [Tutorial: How To Create A Seamless Texture in GIMP](https://www.gameartguppy.com/tutorial-how-to-create-a-seamless-texture-in-gimp/), Vicki Wenderlich on GameArtGuppy
 - [How to make a simple, generic grass texture in GIMP](https://www.moddb.com/groups/indie-devs/tutorials/how-to-make-a-simple-grass-texture-in-gimp), feillyne on ModDB
